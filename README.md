@@ -128,18 +128,6 @@ This project provides a comprehensive analysis of credit card customer and trans
   - Activation and satisfaction rates are key drivers for revenue.
   - Delinquency remains low but should be monitored.
 
-## How to Use
-
-1. **Clone or Download the Data**
-    - Data available on GitHub and Google Drive.
-2. **Import to SQL**
-    - Use provided SQL scripts to create and populate tables.
-3. **Power BI Dashboard**
-    - Import data and use DAX queries for custom metrics.
-    - Explore interactive visuals for deep-dive analysis.
-4. **Update & Share**
-    - Refresh data weekly for real-time insights.
-    - Export dashboards and reports for stakeholders.
 
 
 
